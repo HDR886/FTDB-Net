@@ -1,0 +1,1 @@
+python pydiff/train.py -opt options/train_v2.yaml
