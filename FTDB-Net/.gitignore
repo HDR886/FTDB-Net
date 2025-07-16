@@ -1,6 +1,0 @@
-experiments
-# .gitignore
-# dataset
-# pretrained_models
-pretrained_models/LOLweights.pth
-dataset/LOLdataset
